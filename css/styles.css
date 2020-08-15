@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+    background-color: azure;
+}
+.column{
+    float: left;
+    border: 2px solid green;
+    width: 400px;
+    height: 500px;
+}
